@@ -2,8 +2,8 @@
 
 <pre>
  /\_/\
-( o.o )  SYS.BOOT OK
- > ^ <   ROHAN_GIRI :: ONLINE
+( o.o )  
+ > ^ <   
 </pre>
 
 # ROHAN GIRI // SYS.DEV
